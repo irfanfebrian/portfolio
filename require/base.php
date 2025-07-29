@@ -1,5 +1,5 @@
 <?php
-	define('BASE_URL','https://irfanf.com/');
+	define('BASE_URL','https://portfolio-irfanf.vercel.app/');
 	function site_url ( $path = '')
 	{
 		if( is_array( $path ))
