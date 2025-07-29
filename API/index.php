@@ -1,7 +1,7 @@
-<?php include 'require/base.php';?>
-<?php include 'require/bg-dark.php';?>
-<?php include 'require/text-light.php';?>
-<?php include 'require/nav.php';?>
+<?php include '/../require/base.php';?>
+<?php include '/../require/bg-dark.php';?>
+<?php include '/../require/text-light.php';?>
+<?php include '/../require/nav.php';?>
 
 
 	
@@ -56,6 +56,6 @@
 			</div>
 		</div>
 	</div>
-	<?php include 'require/contact.php';?>
+	<?php include '/../require/contact.php';?>
 
-<?php include 'require/footer.php';?>
+<?php include '/../require/footer.php';?>
